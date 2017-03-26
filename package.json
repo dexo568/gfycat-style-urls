@@ -1,0 +1,28 @@
+{
+  "name": "gfycat-style-urls",
+  "version": "1.0.0",
+  "description": "A package that generates animal-adjective combinations, like those seen in the urls of http://gfycat.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexo568/gfycat-style-urls.git"
+  },
+  "keywords": [
+    "url",
+    "random",
+    "vanity",
+    "generate",
+    "animal",
+    "string",
+    "id"
+  ],
+  "author": "dexo568",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dexo568/gfycat-style-urls/issues"
+  },
+  "homepage": "https://github.com/dexo568/gfycat-style-urls#readme"
+}
