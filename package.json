@@ -1,6 +1,6 @@
 {
   "name": "gfycat-style-urls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that generates animal-adjective combinations, like those seen in the urls of http://gfycat.com.",
   "main": "index.js",
   "scripts": {
